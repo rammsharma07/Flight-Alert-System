@@ -1,0 +1,13 @@
+E:\Ram\Fas branch Dashboard_dev\PVG_Tracker\FAS\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Ram\Fas branch Dashboard_dev\PVG_Tracker\FAS\Domain\bin\Debug\net8.0\Domain.dll
+E:\Ram\Fas branch Dashboard_dev\PVG_Tracker\FAS\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Ram\Fas branch Dashboard_dev\PVG_Tracker\FAS\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+E:\Ram\Fas branch Dashboard_dev\PVG_Tracker\FAS\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ram\Fas branch Dashboard_dev\PVG_Tracker\FAS\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Ram\Fas branch Dashboard_dev\PVG_Tracker\FAS\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Ram\Fas branch Dashboard_dev\PVG_Tracker\FAS\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Ram\Fas branch Dashboard_dev\PVG_Tracker\FAS\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\Ram\Fas branch Dashboard_dev\PVG_Tracker\FAS\Domain\obj\Debug\net8.0\Domain.dll
+E:\Ram\Fas branch Dashboard_dev\PVG_Tracker\FAS\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Ram\Fas branch Dashboard_dev\PVG_Tracker\FAS\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Ram\Fas branch Dashboard_dev\PVG_Tracker\FAS\Domain\obj\Debug\net8.0\ref\Domain.dll
